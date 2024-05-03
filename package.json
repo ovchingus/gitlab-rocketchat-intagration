@@ -1,0 +1,24 @@
+{
+  "name": "gitlab-rocketchat-integration",
+  "version": "0.0.1",
+  "description": "Connect your gitlab repositories to rocketchat",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ovchingus/gitlab-rocketchat-intagration.git"
+  },
+  "keywords": [
+    "gitlab",
+    "rocketchat",
+    "notifications"
+  ],
+  "author": "Vladimir Ovechkin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ovchingus/gitlab-rocketchat-intagration/issues"
+  },
+  "homepage": "https://github.com/ovchingus/gitlab-rocketchat-intagration#readme"
+}
